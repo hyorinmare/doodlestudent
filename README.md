@@ -13,9 +13,9 @@ De même le Dockerfile pour le back est dans le dossier api.
 Pour lancer : 
 
 
--docker build -t doodle/front ./front
--docker build -t doodle/back ./api
--docker-compose up
+-docker build -t doodle/front ./front  
+-docker build -t doodle/back ./api  
+-docker-compose up  
 
 
 
