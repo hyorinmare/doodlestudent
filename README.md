@@ -30,5 +30,6 @@ Déploiement sur machine locale, puisque vm inaccessible en ce moment.
 
 ## Tâche 4
 
+![](diagram_uml.png)
 
 
